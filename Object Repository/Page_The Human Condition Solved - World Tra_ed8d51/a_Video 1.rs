@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Video 1</name>
+   <tag></tag>
+   <elementGuidId>92b3d2c9-4bad-41af-909a-a2ced7c24998</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul[@id='share-print-download-options']/li[2]/a)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;html&quot;)/body[@class=&quot;home page-template-default page page-id-8 hiddenbody fl-builder fl-full-width fl-builder-breakpoint-large no-mobile-device no-safari-browser no-firefox-browser no-in-app-browser&quot;]/div[@class=&quot;fancybox-overlay fancybox-overlay-fixed&quot;]/div[@class=&quot;fancybox-wrap fancybox-desktop fancybox-type-ajax fancybox-opened&quot;]/div[@class=&quot;fancybox-skin&quot;]/div[@class=&quot;fancybox-outer&quot;]/div[@class=&quot;fancybox-inner&quot;]/div[@class=&quot;dynamic-fancyboxes&quot;]/div[@id=&quot;main-videos-audios-pop&quot;]/ul[@id=&quot;share-print-download-options&quot;]/li[2]/a[@class=&quot;eventWTM&quot;][count(. | //*[(text() = 'Video 1' or . = 'Video 1')]) = count(//*[(text() = 'Video 1' or . = 'Video 1')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eventWTM</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://media.wtmfiles.com/podcasts/Wtm-fe1-your-block-to-most-wonderful-gift_PODCAST.mp3?dl</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-category</name>
+      <type>Main</type>
+      <value>Freedom-essays</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>download-audio_home</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-message</name>
+      <type>Main</type>
+      <value>Wtm-fe1-your-block-to-most-wonderful-gift_PODCAST.mp3?dl</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Video 1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;html&quot;)/body[@class=&quot;home page-template-default page page-id-8 hiddenbody fl-builder fl-full-width fl-builder-breakpoint-large no-mobile-device no-safari-browser no-firefox-browser no-in-app-browser&quot;]/div[@class=&quot;fancybox-overlay fancybox-overlay-fixed&quot;]/div[@class=&quot;fancybox-wrap fancybox-desktop fancybox-type-ajax fancybox-opened&quot;]/div[@class=&quot;fancybox-skin&quot;]/div[@class=&quot;fancybox-outer&quot;]/div[@class=&quot;fancybox-inner&quot;]/div[@class=&quot;dynamic-fancyboxes&quot;]/div[@id=&quot;main-videos-audios-pop&quot;]/ul[@id=&quot;share-print-download-options&quot;]/li[2]/a[@class=&quot;eventWTM&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='share-print-download-options']/li[2]/a)[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Video 1')])[62]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THE Interview'])[20]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video 14'])[13]/following::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video 2'])[14]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video 3'])[15]/preceding::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://media.wtmfiles.com/podcasts/Wtm-fe1-your-block-to-most-wonderful-gift_PODCAST.mp3?dl')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div[4]/ul/li[2]/a</value>
+   </webElementXpaths>
+</WebElementEntity>

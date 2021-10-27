@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "CFE30E1814080CAA9247F3127E7E1D2B",
+  "keywordClasses": [
+    {
+      "name": "browserstack.allowpopup",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
