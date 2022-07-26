@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "72E46F79C96CA970C7D7F6623FF2E4B6",
+  "keywordClasses": [
+    {
+      "name": "pdfRobot",
+      "keywordMethods": [
+        {
+          "name": "pdfRobotkw",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

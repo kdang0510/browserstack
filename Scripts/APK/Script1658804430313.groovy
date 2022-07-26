@@ -17,36 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+Mobile.startApplication('bs://c5b6b4f6a8677b3171ede6c7a8fc94a74cbd0048', true)
 
-WebUI.navigateToUrl('https://www.humancondition.com/')
+Mobile.switchToPortrait()
 
-WebUI.delay(2)
+Mobile.tap(findTestObject('Object Repository/00008343/android.widget.LinearLayout (1)'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_The Human Condition Solved - World Tra_ed8d51/span_Accept cookies'))
+Mobile.tap(findTestObject('Object Repository/00008343/android.widget.ImageView (1)'), 0)
 
-WebUI.delay(1)
-
-WebUI.scrollToElement(findTestObject('Page_The Human Condition Solved - World Transformation Movement/h2_THE MAIN VIDEOS'), 
-    10)
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/Page_The Human Condition Solved - World Tra_ed8d51/a_Audios'))
-
-WebUI.delay(3)
-
-CustomKeywords.'wtmCustomKeywords.JavaScriptClick.clickElement'(findTestObject('Object Repository/Page_The Human Condition Solved - World Tra_ed8d51/a_THE Interview'))
-
-WebUI.delay(3)
-
-
-CustomKeywords.'wtmCustomKeywords.JavaScriptClick.clickElement'(findTestObject('Object Repository/Page_The Human Condition Solved - World Tra_ed8d51/a_Video 1'))
-
-WebUI.clickImage(findTestObject('allowBtn'))
-
-
-WebUI.delay(3)
-
-CustomKeywords.'wtmCustomKeywords.JavaScriptClick.clickElement'(findTestObject('Object Repository/Page_The Human Condition Solved - World Tra_ed8d51/a_Video 2'))
+Mobile.closeApplication()
 

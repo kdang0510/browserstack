@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "4D8D329FDA9E52AF6D38B75BB93DF034",
+  "keywordClasses": [
+    {
+      "name": "wtmCustomKeywords.JavaScriptClick",
+      "keywordMethods": [
+        {
+          "name": "clickElement",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Click element\n\t * @param to Katalon test object\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

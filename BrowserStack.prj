@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>LocalAgentProject</name>
+   <name>BrowserStack</name>
    <tag></tag>
-   <UUID>f0f56872-111f-4482-912c-8544fd87e015</UUID>
+   <UUID>c331edf7-5354-41db-802c-a419c430c65a</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/khang.dang/Katalon Studio/Browserstack/LocalAgentProject.prj</projectFileLocation>
+   <projectFileLocation>/Users/khang.dang/Katalon Studio/BrowserStack/BrowserStack.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,6 +25,5 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBUI</type>
 </Project>
